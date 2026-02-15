@@ -1,0 +1,6 @@
+export {default as DashboardScreen} from "../app/dashboard/Dashboard"
+export {default as AccountAndBillingScreen} from "../app/account&billing/AccountAndBilling"
+export {default as FleetManagementScreen} from "../app/fleetManagement/FleetManagement"
+export {default as SwitichControlPanalScreen} from "../app/switchControlPanel/SwitichControlPanal"
+export {default as AnalyticsReportsScreen} from "../app/analytics/AnalyticsReports"
+export {default as SettingScreen} from "../app/settings/Setting"
